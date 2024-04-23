@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { View, Text, Button, TextInput } from "react-native";
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
-const FIFTH = ({ navigation}) => {
+const FIFTH = ({}) => {
     
 
     return (
